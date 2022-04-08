@@ -1,0 +1,31 @@
+.Title-Page {
+    color:green;
+    font-size: 60px;
+    text-align: center;
+    background-color: lightblue;
+    font-family: Tahoma, Helvetica, sans-serif
+}
+
+    li{
+    font-size: 30px;
+    font-family:Tahoma, Helvetica, sans-serif
+    
+}
+
+.Headers {
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 40px;
+    background-color: lightblue;
+}
+
+p{
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 30px;
+     
+}
+
+.image {
+    height: auto;
+    width: 520px;
+}
+
